@@ -1,2 +1,2 @@
-console.log("111");
-const bb=22;
+const a=11;
+const b=22;
